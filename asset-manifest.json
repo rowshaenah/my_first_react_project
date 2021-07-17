@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my_first_react_project/static/css/main.8a8ba57b.chunk.css",
+    "main.js": "/my_first_react_project/static/js/main.2162a88a.chunk.js",
+    "main.js.map": "/my_first_react_project/static/js/main.2162a88a.chunk.js.map",
+    "runtime-main.js": "/my_first_react_project/static/js/runtime-main.3db484dd.js",
+    "runtime-main.js.map": "/my_first_react_project/static/js/runtime-main.3db484dd.js.map",
+    "static/js/2.bead3d95.chunk.js": "/my_first_react_project/static/js/2.bead3d95.chunk.js",
+    "static/js/2.bead3d95.chunk.js.map": "/my_first_react_project/static/js/2.bead3d95.chunk.js.map",
+    "index.html": "/my_first_react_project/index.html",
+    "static/css/main.8a8ba57b.chunk.css.map": "/my_first_react_project/static/css/main.8a8ba57b.chunk.css.map",
+    "static/js/2.bead3d95.chunk.js.LICENSE.txt": "/my_first_react_project/static/js/2.bead3d95.chunk.js.LICENSE.txt",
+    "static/media/about.799c5bf3.png": "/my_first_react_project/static/media/about.799c5bf3.png",
+    "static/media/tree.10293e09.png": "/my_first_react_project/static/media/tree.10293e09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3db484dd.js",
+    "static/js/2.bead3d95.chunk.js",
+    "static/css/main.8a8ba57b.chunk.css",
+    "static/js/main.2162a88a.chunk.js"
+  ]
+}
